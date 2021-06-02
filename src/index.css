@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto Slab', serif;
+  background-color: #111827;
+}
+
+i {
+  color: #ffffffff !important;
+  padding-right: 10px;
+}
